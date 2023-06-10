@@ -11,7 +11,7 @@
     "parserOptions": {
         "ecmaVersion": "latest",
         "sourceType": "module",
-        "project": "/mnt/A448323448320618/code-projects/Aprendizaje-individual/WebDevTW-tips-and-code/animated-sliding-tab-bar-react_ts_tw/tsconfig.json"
+        "project": "/mnt/A448323448320618/code-projects/Aprendizaje-individual/WebDevTW-tips-and-code/animated-sliding-tab-bar/tsconfig.json"
     },
     "plugins": [
         "react"
@@ -19,5 +19,5 @@
     "rules": {
         "import/no-absolute-path": "off"
     },
-    "ignorePatterns": ["vite.config.js"]
+    "ignorePatterns": ["vite.config.ts"]
 }
